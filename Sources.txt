@@ -1,0 +1,15 @@
+https://www.randomservices.org/random/data/Snow.html
+http://www.ncgia.ucsb.edu/pubs/snow/snow.html (lesson about old data?)
+https://geodacenter.github.io/data-and-lab/snow/ (most successful)
+https://geodacenter.github.io/data-and-lab/data/snow_documentation.pdf
+
+https://docs.blender.org/api/current/info_quickstart.html
+https://k3no.medium.com/the-basics-of-using-python-in-blender-46831fd094e6
+https://tavoglc.medium.com/making-heat-maps-with-blender-539455935840
+https://github.com/TavoGLC/DataAnalysisByExample/blob/master/Visualization/HeatmapBlender.py
+https://docs.blender.org/api/current/bpy.ops.mesh.html
+https://blender.stackexchange.com/questions/201874/how-to-add-a-color-to-a-generated-cube-within-a-python-script
+https://www.katsbits.com/codex/mesh-colour/
+https://stackoverflow.com/questions/51520/how-to-get-an-absolute-file-path-in-python
+
+https://github.com/c-frame/aframe-extras/tree/master/src/controls
